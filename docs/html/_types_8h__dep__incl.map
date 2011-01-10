@@ -1,0 +1,22 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$_config_8h.html" title="Config.h" alt="" coords="59,315,128,344"/>
+<area shape="rect" id="node15" href="$_str_array_8h.html" title="StrArray.h" alt="" coords="155,315,235,344"/>
+<area shape="rect" id="node20" href="$_rect_8h.html" title="Rect.h" alt="" coords="272,83,331,112"/>
+<area shape="rect" id="node5" href="$_config_8cpp.html" title="Config.cpp" alt="" coords="124,392,207,421"/>
+<area shape="rect" id="node7" href="$_game_8cpp.html" title="Game.cpp" alt="" coords="5,547,88,576"/>
+<area shape="rect" id="node9" href="$main_8cpp.html" title="main.cpp" alt="" coords="143,547,217,576"/>
+<area shape="rect" id="node11" href="$_surface_8cpp.html" title="Surface.cpp" alt="" coords="348,392,439,421"/>
+<area shape="rect" id="node13" href="$_video_8cpp.html" title="Video.cpp" alt="" coords="73,469,153,499"/>
+<area shape="rect" id="node18" href="$_str_array_8cpp.html" title="StrArray.cpp" alt="" coords="231,392,324,421"/>
+<area shape="rect" id="node22" href="$_gfx_obj_8h.html" title="GfxObj.h" alt="" coords="265,160,337,189"/>
+<area shape="rect" id="node49" href="$_rect_8cpp.html" title="Rect.cpp" alt="" coords="361,160,436,189"/>
+<area shape="rect" id="node24" href="$_surface_8h.html" title="Surface.h" alt="" coords="400,237,477,267"/>
+<area shape="rect" id="node43" href="$_sprite_8h.html" title="Sprite.h" alt="" coords="273,315,340,344"/>
+<area shape="rect" id="node46" href="$_gfx_obj_8cpp.html" title="GfxObj.cpp" alt="" coords="291,237,376,267"/>
+<area shape="rect" id="node26" href="$_screen_8h.html" title="Screen.h" alt="" coords="563,315,637,344"/>
+<area shape="rect" id="node37" href="$_plane_8h.html" title="Plane.h" alt="" coords="464,315,531,344"/>
+<area shape="rect" id="node28" href="$_video_8h.html" title="Video.h" alt="" coords="567,392,633,421"/>
+<area shape="rect" id="node35" href="$_screen_8cpp.html" title="Screen.cpp" alt="" coords="657,392,745,421"/>
+<area shape="rect" id="node30" href="$_game_8h.html" title="Game.h" alt="" coords="177,469,244,499"/>
+<area shape="rect" id="node40" href="$_plane_8cpp.html" title="Plane.cpp" alt="" coords="463,392,543,421"/>
+</map>

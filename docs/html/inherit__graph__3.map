@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$class_input.html" title="Interface for input devices." alt="" coords="5,5,56,35"/>
+<area shape="rect" id="node3" href="$class_kb_input.html" title="Keyboard input." alt="" coords="104,5,171,35"/>
+</map>

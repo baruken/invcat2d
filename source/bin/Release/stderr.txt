@@ -1,0 +1,5 @@
+Abnormal program termination
+============================
+Error       : Error in SDL call.
+Description : Unable to create surface. Couldn't open teste.bmp File: teste.bmp
+Scope       : Surface::(ctor)

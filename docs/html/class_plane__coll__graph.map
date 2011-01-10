@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node4" href="$class_gfx_obj.html" title="GfxObj stands for graphic object." alt="" coords="51,101,112,131"/>
+<area shape="rect" id="node2" href="$class_surface.html" title="Surface class represents a 2 dimensional image." alt="" coords="5,181,72,211"/>
+<area shape="rect" id="node6" href="$class_rect.html" title="Rectangle class." alt="" coords="111,5,159,35"/>
+</map>

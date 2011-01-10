@@ -1,0 +1,54 @@
+vetores de movimento
+
+Para implementar o deslocamento entre os planos podemos utilizar o conceito de vetores de movimento.
+
+O vetor de movimento do jogador deve ser passado para o plano pai que repassa para os outros planos.
+
+Opção 1: criamos uma classe GEMoveVector que é passada como parâmetro para o player (GEPlayerCharacter) quando criado e depois é repassado para a tela, que atualizará os planos de acordo com a velocidade do jogador.
+
+GEMoveVector* move_vector = new GEMoveVector;
+player->SetMoveVector(move_vector);
+screen->SetMoveVector(move_vector);
+
+Porém, como saber quando o player atinge uma parte da tela que precisa ser atualizada? E quando saber quando a tela deve ficar parada?
+
+O move vector é nulo quando a tela deve ficar parada. Ok.
+
+/---------------------------\
+|       |         |         |
+|       |         |         |
+|       |         |         |
+|       |         |         |
+|       |         |         |
+|       |         |         |
+\---------------------------/
+
+Quando um plano "acaba" ele automaticamente pára de obedecer o move vector.
+
+O problema é a posição relativa do sprite
+
+
+
+
+----------------------------
+
+transformar GEPlayerAction em uma classe derivada de move vector?
+transformar GEPlayerCharacter em uma classe derivada de move vector?
+criar uma Classe GEMovingObject ?
+
+GEAnimatedObject garante que o objeto seja animado
+GEMovingObject garante que o objeto possa se mover?
+
+
+Quem precisa saber do movimento?
+
+Input -> grava
+Player -> lê
+Screen -> lê (repassando para plane)
+
+O Player se move "parado" enquanto a tela puder rolar
+
+A tela tem o próprio move vector
+A tela compara o seu move vector com o do player?
+
+

@@ -1,0 +1,301 @@
+# depslib dependency file v1.0
+1293043391 source:c:\documents and settings\paulo.petruzalek\my documents\ge\exception.cpp
+	"Exception.h"
+
+1293627474 c:\documents and settings\paulo.petruzalek\my documents\ge\exception.h
+	<sstream>
+	<string>
+
+1293034120 source:c:\documents and settings\paulo.petruzalek\my documents\ge\utilities.cpp
+	"Utilities.h"
+
+1293030248 c:\documents and settings\paulo.petruzalek\my documents\ge\utilities.h
+	"Types.h"
+	<vector>
+	<string>
+
+1293127443 c:\documents and settings\paulo.petruzalek\my documents\ge\types.h
+
+1293469971 source:c:\documents and settings\paulo.petruzalek\my documents\ge\main.cpp
+	"Config.h"
+	<iostream>
+	"Game.h"
+
+1293550224 source:c:\documents and settings\paulo.petruzalek\my documents\ge\game.cpp
+	"Game.h"
+	<iostream>
+	"Exception.h"
+	"SDL/SDL.h"
+	"Config.h"
+
+1293627587 c:\documents and settings\paulo.petruzalek\my documents\ge\game.h
+	"Singleton.h"
+	"Video.h"
+	"Timer.h"
+
+1293629089 c:\documents and settings\paulo.petruzalek\my documents\ge\singleton.h
+	"Exception.h"
+
+1293627466 c:\documents and settings\paulo.petruzalek\my documents\ge\config.h
+	"SDL/SDL.h"
+	"Types.h"
+	"Singleton.h"
+
+1293037622 source:c:\documents and settings\paulo.petruzalek\my documents\ge\strarray.cpp
+	"StrArray.h"
+
+1293629104 c:\documents and settings\paulo.petruzalek\my documents\ge\strarray.h
+	"Types.h"
+	<vector>
+	<string>
+
+1293549636 source:c:\documents and settings\paulo.petruzalek\my documents\ge\config.cpp
+	"Config.h"
+	<fstream>
+	"StrArray.h"
+	<stdlib.h>
+
+1293629146 c:\documents and settings\paulo.petruzalek\my documents\ge\video.h
+	"Screen.h"
+	"Plane.h"
+
+1293619981 source:c:\documents and settings\paulo.petruzalek\my documents\ge\video.cpp
+	"Video.h"
+	"Config.h"
+	"Exception.h"
+	"SDL/SDL_image.h"
+	"Player.h"
+	"KbInput.h"
+
+1293479824 source:c:\documents and settings\paulo.petruzalek\my documents\ge\screen.cpp
+	"Screen.h"
+	"Exception.h"
+	"Config.h"
+
+1293629054 c:\documents and settings\paulo.petruzalek\my documents\ge\screen.h
+	"Surface.h"
+	"SDL/SDL.h"
+
+1293623811 source:c:\documents and settings\paulo.petruzalek\my documents\ge\surface.cpp
+	"Surface.h"
+	"Config.h"
+	"SDL/SDL_image.h"
+	"Exception.h"
+	"Plane.h"
+
+1293629130 c:\documents and settings\paulo.petruzalek\my documents\ge\surface.h
+	"GfxObj.h"
+
+1293629036 c:\documents and settings\paulo.petruzalek\my documents\ge\rect.h
+	"SDL/SDL.h"
+	"Types.h"
+
+1293131431 c:\documents and settings\paulo.petruzalek\my documents\ge\thread.h
+	<windows.h>
+
+1293127532 source:c:\documents and settings\paulo.petruzalek\my documents\ge\thread.cpp
+	"Thread.h"
+	"Exception.h"
+
+1293467006 c:\documents and settings\paulo.petruzalek\my documents\ge\timer.h
+
+1293133284 source:c:\documents and settings\paulo.petruzalek\my documents\ge\timer.cpp
+	"Timer.h"
+	"SDL/SDL.h"
+
+1293462533 source:c:\documents and settings\paulo.petruzalek\my documents\ge\rect.cpp
+	"Rect.h"
+
+1293647758 c:\documents and settings\paulo.petruzalek\my documents\ge\plane.h
+	"Surface.h"
+	<vector>
+
+1293742383 c:\documents and settings\paulo.petruzalek\my documents\ge\gfxobj.h
+	"Rect.h"
+	"MoveVector.h"
+
+1293469016 source:c:\documents and settings\paulo.petruzalek\my documents\ge\plane.cpp
+	"Plane.h"
+
+1293623734 source:c:\documents and settings\paulo.petruzalek\my documents\ge\gfxobj.cpp
+	"GfxObj.h"
+
+1293742837 source:c:\documents and settings\paulo.petruzalek\my documents\ge\sprite.cpp
+	"Sprite.h"
+	<fstream>
+	"StrArray.h"
+	<stdlib.h>
+	"Exception.h"
+	"Plane.h"
+	<iostream>
+
+1293742472 c:\documents and settings\paulo.petruzalek\my documents\ge\sprite.h
+	"Surface.h"
+	"GfxObj.h"
+
+1293576255 source:c:\documents and settings\paulo.petruzalek\my documents\ge\kbinput.cpp
+	"KbInput.h"
+
+1293628708 c:\documents and settings\paulo.petruzalek\my documents\ge\kbinput.h
+	"SDL/SDL.h"
+	"Input.h"
+
+1293628708 c:\documents and settings\paulo.petruzalek\my documents\ge\input.h
+	"Types.h"
+
+1293742802 source:c:\documents and settings\paulo.petruzalek\my documents\ge\player.cpp
+	"Player.h"
+	"Exception.h"
+
+1293628971 c:\documents and settings\paulo.petruzalek\my documents\ge\player.h
+	"Input.h"
+	"Sprite.h"
+
+1293742792 c:\documents and settings\paulo.petruzalek\my documents\ge\movevector.h
+
+1293549638 source:d:\projects\ge\config.cpp
+	"Config.h"
+	<fstream>
+	"StrArray.h"
+	<stdlib.h>
+
+1293627468 d:\projects\ge\config.h
+	"SDL/SDL.h"
+	"Types.h"
+	"Singleton.h"
+
+1293127444 d:\projects\ge\types.h
+
+1293629090 d:\projects\ge\singleton.h
+	"Exception.h"
+
+1293627476 d:\projects\ge\exception.h
+	<sstream>
+	<string>
+
+1293629106 d:\projects\ge\strarray.h
+	"Types.h"
+	<vector>
+	<string>
+
+1293043392 source:d:\projects\ge\exception.cpp
+	"Exception.h"
+
+1293550226 source:d:\projects\ge\game.cpp
+	"Game.h"
+	<iostream>
+	"Exception.h"
+	"SDL/SDL.h"
+	"Config.h"
+
+1293627588 d:\projects\ge\game.h
+	"Singleton.h"
+	"Video.h"
+	"Timer.h"
+
+1293629148 d:\projects\ge\video.h
+	"Screen.h"
+	"Plane.h"
+
+1293629056 d:\projects\ge\screen.h
+	"Surface.h"
+	"SDL/SDL.h"
+
+1293629132 d:\projects\ge\surface.h
+	"GfxObj.h"
+
+1293742384 d:\projects\ge\gfxobj.h
+	"Rect.h"
+	"MoveVector.h"
+
+1293629038 d:\projects\ge\rect.h
+	"SDL/SDL.h"
+	"Types.h"
+
+1293742794 d:\projects\ge\movevector.h
+
+1293647760 d:\projects\ge\plane.h
+	"Surface.h"
+	<vector>
+
+1293467008 d:\projects\ge\timer.h
+
+1293623736 source:d:\projects\ge\gfxobj.cpp
+	"GfxObj.h"
+
+1293576256 source:d:\projects\ge\kbinput.cpp
+	"KbInput.h"
+
+1293628710 d:\projects\ge\kbinput.h
+	"SDL/SDL.h"
+	"Input.h"
+
+1293628710 d:\projects\ge\input.h
+	"Types.h"
+
+1293469018 source:d:\projects\ge\plane.cpp
+	"Plane.h"
+
+1293921274 source:d:\projects\ge\player.cpp
+	"Player.h"
+	"Exception.h"
+
+1293921274 d:\projects\ge\player.h
+	"Input.h"
+	"Sprite.h"
+
+1293921230 d:\projects\ge\sprite.h
+	"Surface.h"
+	"GfxObj.h"
+
+1293462534 source:d:\projects\ge\rect.cpp
+	"Rect.h"
+
+1293479826 source:d:\projects\ge\screen.cpp
+	"Screen.h"
+	"Exception.h"
+	"Config.h"
+
+1293921255 source:d:\projects\ge\sprite.cpp
+	"Sprite.h"
+	<fstream>
+	"StrArray.h"
+	<stdlib.h>
+	"Exception.h"
+	"Plane.h"
+	<iostream>
+
+1293037624 source:d:\projects\ge\strarray.cpp
+	"StrArray.h"
+
+1293623812 source:d:\projects\ge\surface.cpp
+	"Surface.h"
+	"Config.h"
+	"SDL/SDL_image.h"
+	"Exception.h"
+	"Plane.h"
+
+1293127534 source:d:\projects\ge\thread.cpp
+	"Thread.h"
+	"Exception.h"
+
+1293131432 d:\projects\ge\thread.h
+	<windows.h>
+
+1293133286 source:d:\projects\ge\timer.cpp
+	"Timer.h"
+	"SDL/SDL.h"
+
+1293920256 source:d:\projects\ge\video.cpp
+	"Video.h"
+	"Config.h"
+	"Exception.h"
+	"SDL/SDL_image.h"
+	"Player.h"
+	"KbInput.h"
+
+1293469972 source:d:\projects\ge\main.cpp
+	"Config.h"
+	<iostream>
+	"Game.h"
+

@@ -1,0 +1,16 @@
+Project : invcat2d
+Author  : baruken (baruken@oconsultorfinanceiro.com)
+Created : 10/01/2011
+
+Description:
+
+This project is a work-in-progress 2d game using SDL. The objective is to create a sidescrolling space shooter.
+
+Note:
+In order to test the sprite engine I've used megaman sprite, but this will be replaced by a proper ship in the future.
+
+Directory structure:
+source - all the project source
+doc - documentation
+doc/html - doxygen generated source doc
+prototypes - previous versions of the code

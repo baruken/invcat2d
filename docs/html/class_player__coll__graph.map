@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$class_sprite.html" title="Sprite class." alt="" coords="5,277,61,307"/>
+<area shape="rect" id="node4" href="$class_gfx_obj.html" title="GfxObj stands for graphic object." alt="" coords="45,85,107,115"/>
+<area shape="rect" id="node10" href="$class_surface.html" title="Surface class represents a 2 dimensional image." alt="" coords="43,165,109,195"/>
+<area shape="rect" id="node6" href="$class_rect.html" title="Rectangle class." alt="" coords="52,5,100,35"/>
+<area shape="rect" id="node8" href="$class_plane.html" title="Represents a drawing plane." alt="" coords="115,277,168,307"/>
+<area shape="rect" id="node14" href="$class_input.html" title="Interface for input devices." alt="" coords="192,277,243,307"/>
+</map>

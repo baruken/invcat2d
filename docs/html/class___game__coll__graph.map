@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$class_video.html" title="Video subsystem main class." alt="" coords="136,357,189,387"/>
+<area shape="rect" id="node4" href="$class_plane.html" title="Represents a drawing plane." alt="" coords="124,5,177,35"/>
+<area shape="rect" id="node8" href="$class_gfx_obj.html" title="GfxObj stands for graphic object." alt="" coords="43,101,104,131"/>
+<area shape="rect" id="node6" href="$class_surface.html" title="Surface class represents a 2 dimensional image." alt="" coords="87,181,153,211"/>
+<area shape="rect" id="node13" href="$class_screen.html" title="Software representation of the system screen." alt="" coords="91,261,152,291"/>
+<area shape="rect" id="node10" href="$class_rect.html" title="Rectangle class." alt="" coords="5,5,53,35"/>
+<area shape="rect" id="node16" href="$class_timer.html" title="Basic timer class." alt="" coords="221,357,275,387"/>
+</map>

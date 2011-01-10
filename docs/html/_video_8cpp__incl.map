@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$_video_8h.html" title="Video.h" alt="" coords="111,83,177,112"/>
+<area shape="rect" id="node23" href="$_config_8h.html" title="Config.h" alt="" coords="271,83,340,112"/>
+<area shape="rect" id="node29" href="$_exception_8h.html" title="Exception.h" alt="" coords="341,237,432,267"/>
+<area shape="rect" id="node5" href="$_screen_8h.html" title="Screen.h" alt="" coords="12,160,87,189"/>
+<area shape="rect" id="node18" href="$_plane_8h.html" title="Plane.h" alt="" coords="111,160,177,189"/>
+<area shape="rect" id="node7" href="$_surface_8h.html" title="Surface.h" alt="" coords="20,237,97,267"/>
+<area shape="rect" id="node9" href="$_gfx_obj_8h.html" title="GfxObj.h" alt="" coords="64,315,136,344"/>
+<area shape="rect" id="node11" href="$_rect_8h.html" title="Rect.h" alt="" coords="169,392,228,421"/>
+<area shape="rect" id="node15" href="$_types_8h.html" title="Types.h" alt="" coords="215,469,281,499"/>
+<area shape="rect" id="node27" href="$_singleton_8h.html" title="Singleton.h" alt="" coords="303,160,388,189"/>
+</map>

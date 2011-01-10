@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$_screen_8h.html" title="Screen.h" alt="" coords="113,83,188,112"/>
+<area shape="rect" id="node17" href="$_plane_8h.html" title="Plane.h" alt="" coords="215,83,281,112"/>
+<area shape="rect" id="node22" href="$_surface_8cpp.html" title="Surface.cpp" alt="" coords="312,160,403,189"/>
+<area shape="rect" id="node24" href="$_sprite_8h.html" title="Sprite.h" alt="" coords="356,83,423,112"/>
+<area shape="rect" id="node5" href="$_video_8h.html" title="Video.h" alt="" coords="117,160,184,189"/>
+<area shape="rect" id="node15" href="$_screen_8cpp.html" title="Screen.cpp" alt="" coords="5,160,93,189"/>
+<area shape="rect" id="node7" href="$_game_8h.html" title="Game.h" alt="" coords="68,237,135,267"/>
+<area shape="rect" id="node13" href="$_video_8cpp.html" title="Video.cpp" alt="" coords="159,237,239,267"/>
+<area shape="rect" id="node9" href="$_game_8cpp.html" title="Game.cpp" alt="" coords="9,315,92,344"/>
+<area shape="rect" id="node11" href="$main_8cpp.html" title="main.cpp" alt="" coords="116,315,191,344"/>
+<area shape="rect" id="node20" href="$_plane_8cpp.html" title="Plane.cpp" alt="" coords="208,160,288,189"/>
+</map>
